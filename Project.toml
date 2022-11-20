@@ -3,6 +3,9 @@ uuid = "1909c950-3006-4888-9026-8cb0b30a6102"
 authors = ["John Lepird <jack.lepird@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+
 [compat]
 julia = "1.8"
 
